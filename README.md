@@ -28,7 +28,7 @@ Uppgift 4 och 5 går ut på att lägga till svaret på frågan "Vad är dina int
 - `git push`
 
 ### 5. Öppna en pull request och begär granskning (review)
-Öppna en pull request och begär en review från **FThelin**. En guide om hur du begär en review finns [här](https://help.github.com/en/articles/requesting-a-pull-request-review). Du kommer få återkoppling från din granskare.
+Öppna en pull request och begär en review från **MalinTrofast**. En guide om hur du begär en review finns [här](https://help.github.com/en/articles/requesting-a-pull-request-review). Du kommer få återkoppling från din granskare.
 
 ### 6. Merge och inlämning
 När du fått klartecken att göra en merge, så kan du göra det. Slutför uppgiften genom att skriva in ditt användarnamn på GitHub i uppgiftens textruta i Canvas
